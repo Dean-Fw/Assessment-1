@@ -1,0 +1,13 @@
+C:\Users\Antony\Documents\C# Projects\Voting App - Antony Scott\bin\Debug\netcoreapp3.1\Voting App - Antony Scott.exe
+C:\Users\Antony\Documents\C# Projects\Voting App - Antony Scott\bin\Debug\netcoreapp3.1\Voting App - Antony Scott.deps.json
+C:\Users\Antony\Documents\C# Projects\Voting App - Antony Scott\bin\Debug\netcoreapp3.1\Voting App - Antony Scott.runtimeconfig.json
+C:\Users\Antony\Documents\C# Projects\Voting App - Antony Scott\bin\Debug\netcoreapp3.1\Voting App - Antony Scott.runtimeconfig.dev.json
+C:\Users\Antony\Documents\C# Projects\Voting App - Antony Scott\bin\Debug\netcoreapp3.1\Voting App - Antony Scott.dll
+C:\Users\Antony\Documents\C# Projects\Voting App - Antony Scott\bin\Debug\netcoreapp3.1\Voting App - Antony Scott.pdb
+C:\Users\Antony\Documents\C# Projects\Voting App - Antony Scott\obj\Debug\netcoreapp3.1\Voting App - Antony Scott.csprojAssemblyReference.cache
+C:\Users\Antony\Documents\C# Projects\Voting App - Antony Scott\obj\Debug\netcoreapp3.1\Voting App - Antony Scott.AssemblyInfoInputs.cache
+C:\Users\Antony\Documents\C# Projects\Voting App - Antony Scott\obj\Debug\netcoreapp3.1\Voting App - Antony Scott.AssemblyInfo.cs
+C:\Users\Antony\Documents\C# Projects\Voting App - Antony Scott\obj\Debug\netcoreapp3.1\Voting App - Antony Scott.csproj.CoreCompileInputs.cache
+C:\Users\Antony\Documents\C# Projects\Voting App - Antony Scott\obj\Debug\netcoreapp3.1\Voting App - Antony Scott.dll
+C:\Users\Antony\Documents\C# Projects\Voting App - Antony Scott\obj\Debug\netcoreapp3.1\Voting App - Antony Scott.pdb
+C:\Users\Antony\Documents\C# Projects\Voting App - Antony Scott\obj\Debug\netcoreapp3.1\Voting App - Antony Scott.genruntimeconfig.cache
