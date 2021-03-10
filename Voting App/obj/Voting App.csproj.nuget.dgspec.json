@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\UNI CODE\\OOP\\Assessment 1\\Voting App\\Voting App\\Voting App.csproj": {}
+    "E:\\UNI CODE\\OOP\\Asessment\\Assessment-1\\Voting App\\Voting App.csproj": {}
   },
   "projects": {
-    "E:\\UNI CODE\\OOP\\Assessment 1\\Voting App\\Voting App\\Voting App.csproj": {
+    "E:\\UNI CODE\\OOP\\Asessment\\Assessment-1\\Voting App\\Voting App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\UNI CODE\\OOP\\Assessment 1\\Voting App\\Voting App\\Voting App.csproj",
+        "projectUniqueName": "E:\\UNI CODE\\OOP\\Asessment\\Assessment-1\\Voting App\\Voting App.csproj",
         "projectName": "Voting App",
-        "projectPath": "E:\\UNI CODE\\OOP\\Assessment 1\\Voting App\\Voting App\\Voting App.csproj",
+        "projectPath": "E:\\UNI CODE\\OOP\\Asessment\\Assessment-1\\Voting App\\Voting App.csproj",
         "packagesPath": "C:\\Users\\dean2\\.nuget\\packages\\",
-        "outputPath": "E:\\UNI CODE\\OOP\\Assessment 1\\Voting App\\Voting App\\obj\\",
+        "outputPath": "E:\\UNI CODE\\OOP\\Asessment\\Assessment-1\\Voting App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dean2\\AppData\\Roaming\\NuGet\\NuGet.Config",
