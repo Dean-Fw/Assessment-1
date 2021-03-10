@@ -8,20 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dean2\\.nuget\\packages\\": {}
+    "C:\\Users\\Shaun\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\UNI CODE\\OOP\\Assessment 1\\Voting App\\Voting App\\Voting App.csproj",
+      "projectUniqueName": "C:\\Users\\Shaun\\Desktop\\Assessment-1\\Voting App\\Voting App.csproj",
       "projectName": "Voting App",
-      "projectPath": "E:\\UNI CODE\\OOP\\Assessment 1\\Voting App\\Voting App\\Voting App.csproj",
-      "packagesPath": "C:\\Users\\dean2\\.nuget\\packages\\",
-      "outputPath": "E:\\UNI CODE\\OOP\\Assessment 1\\Voting App\\Voting App\\obj\\",
+      "projectPath": "C:\\Users\\Shaun\\Desktop\\Assessment-1\\Voting App\\Voting App.csproj",
+      "packagesPath": "C:\\Users\\Shaun\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Shaun\\Desktop\\Assessment-1\\Voting App\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\dean2\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Shaun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

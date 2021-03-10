@@ -6,13 +6,15 @@ using System.Threading.Tasks;
 
 namespace Voting_App
 {
-    class mepCanidates
+    class mepCandidates
     {
         private string _partyName;
         private int _voteCount;
-        private string[] _canidates;
-
-        public string partyname
+        private string[] _Candidates;
+        public int dividecount;
+        public int MEPCOUNT;
+        public string partyname;
+        public string candidatesGiven
         {
             get { return _partyName; }
             set { _partyName = value; }
@@ -25,8 +27,8 @@ namespace Voting_App
         }
         public string[] candidates
         {
-            get { return _canidates; }
-            set { _canidates = value; }
+            get { return _Candidates; }
+            set { _Candidates = value; }
         }
     }
 }
