@@ -207,10 +207,7 @@ namespace Voting_App
                 Console.WriteLine("Liberal Democrats" + LDWordPlacing + ";");
                 Console.WriteLine("Labour" + LBWordPlacing + ";");
             }
-            
-            
-
-            
+           
         }
     }
 }
