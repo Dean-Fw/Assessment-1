@@ -14,3 +14,19 @@ E:\UNI CODE\OOP\Assessment 1\Voting App\Voting App\obj\Debug\net5.0\Voting App.d
 E:\UNI CODE\OOP\Assessment 1\Voting App\Voting App\obj\Debug\net5.0\ref\Voting App.dll
 E:\UNI CODE\OOP\Assessment 1\Voting App\Voting App\obj\Debug\net5.0\Voting App.pdb
 E:\UNI CODE\OOP\Assessment 1\Voting App\Voting App\obj\Debug\net5.0\Voting App.genruntimeconfig.cache
+C:\Users\leon\Desktop\Assessment-1\Voting App\obj\Debug\net5.0\Voting App.csprojAssemblyReference.cache
+C:\Users\leon\Desktop\Assessment-1\Voting App\obj\Debug\net5.0\Voting App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leon\Desktop\Assessment-1\Voting App\obj\Debug\net5.0\Voting App.AssemblyInfoInputs.cache
+C:\Users\leon\Desktop\Assessment-1\Voting App\obj\Debug\net5.0\Voting App.AssemblyInfo.cs
+C:\Users\leon\Desktop\Assessment-1\Voting App\obj\Debug\net5.0\Voting App.csproj.CoreCompileInputs.cache
+C:\Users\leon\Desktop\Assessment-1\Voting App\obj\Debug\net5.0\Voting App.dll
+C:\Users\leon\Desktop\Assessment-1\Voting App\obj\Debug\net5.0\ref\Voting App.dll
+C:\Users\leon\Desktop\Assessment-1\Voting App\obj\Debug\net5.0\Voting App.pdb
+C:\Users\leon\Desktop\Assessment-1\Voting App\bin\Debug\net5.0\Voting App.exe
+C:\Users\leon\Desktop\Assessment-1\Voting App\bin\Debug\net5.0\Voting App.deps.json
+C:\Users\leon\Desktop\Assessment-1\Voting App\bin\Debug\net5.0\Voting App.runtimeconfig.json
+C:\Users\leon\Desktop\Assessment-1\Voting App\bin\Debug\net5.0\Voting App.runtimeconfig.dev.json
+C:\Users\leon\Desktop\Assessment-1\Voting App\bin\Debug\net5.0\Voting App.dll
+C:\Users\leon\Desktop\Assessment-1\Voting App\bin\Debug\net5.0\ref\Voting App.dll
+C:\Users\leon\Desktop\Assessment-1\Voting App\bin\Debug\net5.0\Voting App.pdb
+C:\Users\leon\Desktop\Assessment-1\Voting App\obj\Debug\net5.0\Voting App.genruntimeconfig.cache

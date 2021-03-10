@@ -11,6 +11,8 @@ namespace Voting_App
         private string _partyName;
         private int _voteCount;
         private string[] _canidates;
+        private string _outputText;
+        private int _numCandidates;
 
         public string partyname
         {
@@ -27,6 +29,16 @@ namespace Voting_App
         {
             get { return _canidates; }
             set { _canidates = value; }
+        }
+        public string outputText
+        {
+            get { return _outputText; }
+            set { _outputText = value; }
+        }
+        public int numCandidates
+        {
+            get { return _numCandidates; }
+            set { _numCandidates = value; }
         }
     }
 }
