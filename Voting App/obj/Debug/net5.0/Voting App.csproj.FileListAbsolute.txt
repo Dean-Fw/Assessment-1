@@ -30,3 +30,19 @@ C:\Users\Shaun\Desktop\Assessment-1\Voting App\bin\Debug\net5.0\Voting App.dll
 C:\Users\Shaun\Desktop\Assessment-1\Voting App\bin\Debug\net5.0\ref\Voting App.dll
 C:\Users\Shaun\Desktop\Assessment-1\Voting App\bin\Debug\net5.0\Voting App.pdb
 C:\Users\Shaun\Desktop\Assessment-1\Voting App\obj\Debug\net5.0\Voting App.genruntimeconfig.cache
+E:\UNI CODE\OOP\Asessment\Assessment-1\Voting App\bin\Debug\net5.0\Voting App.exe
+E:\UNI CODE\OOP\Asessment\Assessment-1\Voting App\bin\Debug\net5.0\Voting App.deps.json
+E:\UNI CODE\OOP\Asessment\Assessment-1\Voting App\bin\Debug\net5.0\Voting App.runtimeconfig.json
+E:\UNI CODE\OOP\Asessment\Assessment-1\Voting App\bin\Debug\net5.0\Voting App.runtimeconfig.dev.json
+E:\UNI CODE\OOP\Asessment\Assessment-1\Voting App\bin\Debug\net5.0\Voting App.dll
+E:\UNI CODE\OOP\Asessment\Assessment-1\Voting App\bin\Debug\net5.0\ref\Voting App.dll
+E:\UNI CODE\OOP\Asessment\Assessment-1\Voting App\bin\Debug\net5.0\Voting App.pdb
+E:\UNI CODE\OOP\Asessment\Assessment-1\Voting App\obj\Debug\net5.0\Voting App.csprojAssemblyReference.cache
+E:\UNI CODE\OOP\Asessment\Assessment-1\Voting App\obj\Debug\net5.0\Voting App.GeneratedMSBuildEditorConfig.editorconfig
+E:\UNI CODE\OOP\Asessment\Assessment-1\Voting App\obj\Debug\net5.0\Voting App.AssemblyInfoInputs.cache
+E:\UNI CODE\OOP\Asessment\Assessment-1\Voting App\obj\Debug\net5.0\Voting App.AssemblyInfo.cs
+E:\UNI CODE\OOP\Asessment\Assessment-1\Voting App\obj\Debug\net5.0\Voting App.csproj.CoreCompileInputs.cache
+E:\UNI CODE\OOP\Asessment\Assessment-1\Voting App\obj\Debug\net5.0\Voting App.dll
+E:\UNI CODE\OOP\Asessment\Assessment-1\Voting App\obj\Debug\net5.0\ref\Voting App.dll
+E:\UNI CODE\OOP\Asessment\Assessment-1\Voting App\obj\Debug\net5.0\Voting App.pdb
+E:\UNI CODE\OOP\Asessment\Assessment-1\Voting App\obj\Debug\net5.0\Voting App.genruntimeconfig.cache
