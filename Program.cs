@@ -51,6 +51,34 @@ namespace Voting_App___Antony_Scott
             independent.party_Name = "Independent Party";
             independent.vote_Count = 4511;
             independent.Candidates = new string[1] { "IND1" };
+
+            //find the party with most votes, (brexit in the lead with 452321 votes)
+            //assign that party an mep, in this case the Brexit party gains an MEP then divide their votes by 2
+            //brexit = BP1, Vote count = 226,160.5
+            //find the next party with most votes
+            //Brexit currently in the lead, give them another MEP and then divide votes by 3
+            //brexit = BP1, BP2 Vote count = 75,386.83
+            //find next party with most votes
+            //Lib dems in the lead with 203,989 votes, give them an MEP then divide votes by 2
+            //Liberal Democrats = LD1 Vote count = 101994.5
+            //find next party with most votes
+            //Labour in the lead with 164,682 votes, give them an MEP then divide votes by 2
+            //Labour = LAB1, Vote count = 82341
+            //find next party with most votes
+            //Conservatives in the lead with 126,138 votes, give them an MEP then divide votes by 2
+            //Conservatives = CON1, Vote count = 63,069
+            //find next party with most votes
+            //Green in the lead with 124,630 votes, give them an MEP then divide votes by 2
+            //Green = GR1, Vote count = 62,315
+            //find next party with most votes
+            //Lib dems back in the lead with 101,994.5 votes, give them another MEP then divide votes by 3
+            //Lib dems = LD1, LD2, Vote count = 33,998.16
+
+
+            //need a variable that keeps track of the amount of times a party's vote has been divided
+            //need a variable that adds 1 to the devide count each time
+            //
+            Console.WriteLine("Hello World");
         }
     }
 }
