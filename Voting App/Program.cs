@@ -54,6 +54,7 @@ namespace Voting_App
             ID.voteCount = 4511;
             ID.candidates = new string[1] { "IND1" };
 
+            Console.WriteLine("Wooooo!");
         }
     }
 }
